@@ -1,5 +1,7 @@
 # re:Ceiptify
 
+Winner of XE Currency Exchange API Award and QuickBooks API Award at Hack the North
+
 ![Landing Page](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/680/767/datas/gallery.jpg)
 
 
